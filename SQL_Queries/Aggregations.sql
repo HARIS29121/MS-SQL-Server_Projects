@@ -1,4 +1,4 @@
--- All about Aggregations in SQl
+-- All about Aggregations in SQL
 
 USE sql_practice
 
