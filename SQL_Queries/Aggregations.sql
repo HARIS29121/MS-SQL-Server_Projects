@@ -62,4 +62,4 @@ FROM int_orders
 
 SELECT salesperson_id,order_number,order_date,amount,
 SUM(amount) OVER(ORDER BY order_date ROWS BETWEEN 1 FOLLOWING  AND 1 FOLLOWING)
-FROM int_order
+FROM int_orders
