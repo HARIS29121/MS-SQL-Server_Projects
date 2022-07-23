@@ -1,4 +1,4 @@
-CREATE database Employees
+CREATE database Employee
 
 CREATE table emp
 ( emp_id int, emp_name varchar(50), department_id int, salary int, manager_id int)
