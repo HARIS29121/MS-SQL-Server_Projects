@@ -2,7 +2,7 @@
 
 SELECT  * INTO Orders_Backup FROM Orders
 
---Deleting all the records from Order
+--Deleting all the records from Orders
 
 DELETE  FROM  Orders
 
